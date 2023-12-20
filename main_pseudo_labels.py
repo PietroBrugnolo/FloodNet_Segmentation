@@ -76,16 +76,16 @@ def parse_option():
     # Dataset
     opt.mean = [-0.2417,  0.8531,  0.1789]
     opt.std = [0.9023, 1.1647, 1.3271] 
-    opt.name_net = 'pretrained_segformer' 
-    opt.batch_size = 4
+    opt.name_net = 'unet' 
+    opt.batch_size = 8
     opt.num_workers = 2
-    opt.epochs = 15
+    opt.epochs = 200
     opt.num_classes = 10
-    opt.resize_height = 256
+    opt.resize_height = 512
     opt.resize_width = 512
-    opt.supervised_epochs = 5
-    opt.b_factor = 2
-    opt.alpha = 0.5
+    opt.supervised_epochs = 50
+    opt.b_factor = 1
+    opt.alpha = 1
     opt.load_saved_model = False
     opt.threshold_val_dice = 0.35
     # Folders
