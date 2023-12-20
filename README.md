@@ -5,5 +5,7 @@ main_loveda.py is for pretrain on grouped LoveDA, main_pseudo_labels.py is for t
 
 DATA (LoveDA grouped and FloodNet) can be downloaded here: https://drive.google.com/drive/folders/1x9-NhDO5h_4ckUpCDwcRY_6F9tV98c-K?usp=drive_link  
 
+Data is organized in a different way in the kaggle notebooks. To execute scripts use data linked above.
+
 Note that FloodNetDataset_pseudolabels.py, FloodNetDataset.py, and segmentation_dataset.py are used to load data for FloodNet labeled, FloodNet unlabeled, and LoveDA (labeled)
 
