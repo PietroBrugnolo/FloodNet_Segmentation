@@ -73,7 +73,7 @@ def parse_option():
     opt.name_net = 'deeplab'
     opt.batch_size = 8
     opt.num_workers = 2
-    opt.epochs = 300
+    opt.epochs = 200
     opt.num_classes = 10
     # Folders
     opt.project_folder = '...' # main folder
