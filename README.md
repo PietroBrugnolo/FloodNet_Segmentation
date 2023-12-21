@@ -13,4 +13,4 @@ Notebooks (can be visualized on Kaggle) are examples with less epochs, reduced b
 
 
 
-![caption](https://drive.google.com/file/d/1tR2lyOhLX7KfkUPFpLjnmqrwXR1q_dpJ/view?usp=sharing/ GIF)
+FINAL RESULTS VISUAL: https://drive.google.com/file/d/1tR2lyOhLX7KfkUPFpLjnmqrwXR1q_dpJ/view?usp=sharing
