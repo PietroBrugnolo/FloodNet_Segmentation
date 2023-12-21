@@ -9,5 +9,5 @@ Data is organized in a different way in the kaggle notebooks. To execute scripts
 
 Note that FloodNetDataset_pseudolabels.py, FloodNetDataset.py, and segmentation_dataset.py are used to load data for FloodNet labeled, FloodNet unlabeled, and LoveDA (labeled)  
 
-Notebooks (can be visualized on Kaggle) are examples with less epochs.
+Notebooks (can be visualized on Kaggle) are examples with less epochs, reduced batch sizes and resolutions.
 
